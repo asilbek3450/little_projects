@@ -84,20 +84,8 @@ Customizing emails that are sent when reservation is being made can be easily do
 ```
 
 
-Testing
--------
-
-Project has full unit test coverage of the backend. After adding it to your Django project you can run tests from your shell.
-
-    ./manage.py test reservations
-
-![Continuous Integration status](https://secure.travis-ci.org/bernii/django-reservations.png)
-
-
 TODOs
 -----
 
  * Sample app using Django reservations
  * Implemenging user requested features
-
-Got some questions or suggestions? [Mail me](mailto:bkobos+ghdr@extensa.pl) directly or use the [issue tracker](django-reservations/issues).
